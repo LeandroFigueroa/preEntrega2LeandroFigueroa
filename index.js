@@ -20,7 +20,7 @@ const buscar = (id) => {
 
     alert(mensaje);
   }else{
-    alert("producto no encontrado");
+    alert("Producto no encontrado");
   }
 };
 
